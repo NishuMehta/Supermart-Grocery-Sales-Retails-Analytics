@@ -1,5 +1,5 @@
 # Supermart-Grocery-Sales-Retails-Analytics
-### Supermart Grocery Sales - Data Cleaning, Analyzing, Visualization
+## Supermart Grocery Sales - Data Cleaning, Analyzing, Visualization
 
 #### About Dataset
 * This is a fictional dataset created to practice exploratory data analysis and data visualization. The dataset has data on orders placed by customers on a grocery delivery application.
